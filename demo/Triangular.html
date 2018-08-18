@@ -20,6 +20,19 @@
     </body>
     <script src="../build/Triangular.js"></script>
     <script>
-        new Triangular(document.getElementById("triangular"));
+        new Triangular(document.getElementById("triangular"), {
+            widthMultiplier: 1.2,
+            heightMultiplier: 1.2,
+            horizontalDivisions: 10,
+            verticalDivisions: 7,
+            animationRangeX: 90,
+            animationRangeY: 30,
+            animationSpeed: 2000,
+            color1: [53, 92, 125],
+            color2: [192, 108, 132],
+            strokeModR: 1,
+            strokeModG: 1,
+            strokeModB: 1
+        });
     </script>
 </html>

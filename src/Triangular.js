@@ -22,7 +22,7 @@ export default class Triangular
             animationRangeX: 90,
             animationRangeY: 30,
             animationSpeed: 2000,
-            color1: [53, 92,125],
+            color1: [53, 92, 125],
             color2: [192, 108, 132],
             strokeModR: 1,
             strokeModG: 1,
