@@ -63,9 +63,9 @@ Simply grab the Triangular.js file from the build/ directory and link it in your
 
 ## Built With
 
-* [NPM](https://www.npmjs.com/) - The web framework used
-* [Babel](https://babeljs.io/) - Dependency Management
-* [Gulp](https://gulpjs.com/) - Used to generate RSS Feeds
+* [NPM](https://www.npmjs.com/) - Dependency management
+* [Babel](https://babeljs.io/) - JS compiling
+* [Gulp](https://gulpjs.com/) - Build automation
 
 ## Authors
 
